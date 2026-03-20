@@ -205,4 +205,6 @@ This project is licensed under the [LICENSE](./LICENSE).
 
 ---
 
-## 👤 Author : [YeshwanthrajG](https://github.com/YeshwanthrajG)
+## 👤 Author 
+
+[YeshwanthrajG](https://github.com/YeshwanthrajG)
