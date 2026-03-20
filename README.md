@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 TourMaster – Travel & Tour Management System
+# 🌍 TourMaster - Travel & Tour Management System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=java" />
@@ -59,14 +59,14 @@ This project demonstrates **object-oriented programming, GUI development, and fi
 
 ## ✨ Features
 
-* 👤 **User Authentication** – Registration & Login system
-* 🧑‍💼 **Admin Panel** – Manage tours and user data
-* 🌏 **Domestic Tours** – Tamil Nadu, Goa, Kerala, Shillong, Andaman
-* 🌎 **International Tours** – USA, UK, Japan, Thailand, South Korea
-* 📦 **Tour Packages** – Predefined and custom packages
-* 💳 **Payment Simulation** – Booking confirmation system
-* 🤖 **ChatBot** – Basic assistance for users
-* 📁 **File-based Storage** – Stores user/admin data locally
+* 👤 **User Authentication** - Registration & Login system
+* 🧑‍💼 **Admin Panel** - Manage tours and user data
+* 🌏 **Domestic Tours** - Tamil Nadu, Goa, Kerala, Shillong, Andaman
+* 🌎 **International Tours** - USA, UK, Japan, Thailand, South Korea
+* 📦 **Tour Packages** - Predefined and custom packages
+* 💳 **Payment Simulation** - Booking confirmation system
+* 🤖 **ChatBot** - Basic assistance for users
+* 📁 **File-based Storage** - Stores user/admin data locally
 
 ---
 
