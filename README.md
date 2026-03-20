@@ -71,6 +71,7 @@ This project demonstrates **object-oriented programming, GUI development, and fi
 ---
 
 ## 🏗️ Architecture
+a
 
 ```text
 User Interface (Java Swing)
@@ -205,8 +206,6 @@ This project is licensed under the [LICENSE](./LICENSE).
 
 ---
 
-## 👤 Author
-
-[@YeshwanthrajG](https://github.com/YeshwanthrajG)
+## 👤 Author : [YeshwanthrajG](https://github.com/YeshwanthrajG)
 
 ---
